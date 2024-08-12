@@ -2,7 +2,7 @@
 class Orang{
 	public $nama;
 	function UcapSalam(){
-		echo "Hallo. Nama Saya adalah $this->nama";
+		echo "Hallo. Nama Lengkap Saya adalah $this->nama";
 	}
 }
 ?>
